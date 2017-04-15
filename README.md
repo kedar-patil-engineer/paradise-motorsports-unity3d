@@ -44,6 +44,10 @@ Guided by Prof. Prita Patil, with support from Prof. Pankaj Vanvari.
 - `Paradise Motor Sports UNITY 3D.docx` - full project report (abstract, design, and
   documentation in IEEE journal format)
 
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE).
+
 ## Author
 
 Kedar Patil - Bachelor of Engineering, Computer Engineering
