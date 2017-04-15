@@ -44,6 +44,14 @@ Guided by Prof. Prita Patil, with support from Prof. Pankaj Vanvari.
 - `Paradise Motor Sports UNITY 3D.docx` - full project report (abstract, design, and
   documentation in IEEE journal format)
 
+## Publication
+
+This project was published as a peer-reviewed paper:
+
+> Raut, C., Patil, K., Singh, A., and Patil, P. K. **Paradise Motorsports Racing Game using
+> Unity 3D.** *IJSRD - International Journal for Scientific Research & Development*, Vol. 5(2),
+> 2017. ISSN 2321-0613.
+
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
